@@ -1,3 +1,6 @@
+MAteus dos santos saraiva 37022010
+pedro cristian lima da silva 37024861
+
 # Dashboard ITSM - Gestão de Chamados
 
 ## Descrição do Projeto
